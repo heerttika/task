@@ -1,0 +1,84 @@
+.log{
+    border-color: aliceblue black aliceblue black dotted 30px;
+    background-color:rgb(116, 240, 209);
+    border-radius: 2%;
+    border-bottom: 90ex;
+    
+}
+   
+.h1{ 
+        
+    font-family:'Zilla Slab' , serif ;
+    text-align: center;
+    padding-bottom: 40px;
+    padding-top: 40px
+    
+    
+}
+.color{
+
+    background-color:rgb(43, 146, 146);
+}
+.image
+    
+{
+    border-image-outset:70px;
+}
+.username{
+
+    margin-inline-start:70ex ;
+    border-radius: 4%;
+    padding: bottom 4ex;
+    font-family:'Akaya Telivigala', cursive; ;
+}
+.password{
+    margin-inline-start: 70ex;
+    font-family: 'Akaya Telivigala', cursive;
+}
+.submit{
+    background-color: #cc5b47; /* Green */
+ 
+border-color: rgb(148, 21, 4);
+color: white;
+text-align: center;
+text-decoration: none;
+border-radius: 5ex;
+display: inline-block;
+font-family: 'Akaya Telivigala', cursive;
+  
+
+}
+.gender{
+font-size: 15px;
+text-align: center;
+font-family: 'Akaya Telivigala', cursive;
+
+
+}
+.languages{
+     font-size: 15px;
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+
+}
+
+.state{
+    text-align: center;
+    font-family:  'Akaya Telivigala', cursive;
+    padding-bottom:40px ;
+    
+}
+.submit:hover{
+    color:yellow;
+
+
+}
+.pasubmit{
+    padding-top: 20px;
+}
+.footer{
+    text-align: center;
+    font-family: 'Akaya Telivigala', cursive;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
